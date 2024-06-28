@@ -224,7 +224,7 @@ const projects: TProject[] = [
         color: 'green-text-gradient',
       },
     ],
-    image: 'src/assets/project_1.png',
+    image: '/project_1.png',
     sourceCodeLink: 'https://github.com/aoporoy56/F-Commerce-System',
   },
   {
@@ -245,7 +245,7 @@ const projects: TProject[] = [
         color: 'green-text-gradient',
       },
     ],
-    image: 'src/assets/project_2.png',
+    image: '/project_2.png',
     sourceCodeLink: 'https://github.com/aoporoy56/Chatoiler',
   },
   // {
